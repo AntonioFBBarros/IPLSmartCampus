@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "603901699136",
+    "firebase_url": "https://taes-sentinel.firebaseio.com",
+    "project_id": "taes-sentinel",
+    "storage_bucket": "taes-sentinel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603901699136:android:2f225c87778b8bdd226ba5",
+        "android_client_info": {
+          "package_name": "pt.ipleiria.estg.dei.ei.taes.sentinel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603901699136-68a3odjoli3oc10hsk8paau56mssmmki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HLSiK4fQLyVnAoEaHDxQUOGQlK-dwTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603901699136-68a3odjoli3oc10hsk8paau56mssmmki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603901699136:android:6eaaa4417c172ff0226ba5",
+        "android_client_info": {
+          "package_name": "pt.ipleiria.estg.ei.taes.sentinel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603901699136-68a3odjoli3oc10hsk8paau56mssmmki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HLSiK4fQLyVnAoEaHDxQUOGQlK-dwTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603901699136-68a3odjoli3oc10hsk8paau56mssmmki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
